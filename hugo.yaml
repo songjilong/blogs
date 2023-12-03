@@ -1,0 +1,5 @@
+baseURL: 'https://songjilong.github.io/blogs'
+languageCode: "en-us"
+theme: "paperMod"
+title: "lone's blog"
+paginate: 5
