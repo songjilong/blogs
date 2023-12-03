@@ -1,11 +1,11 @@
 +++
-title = 'My First Post'
+title = '12月的上海植物园'
 date = 2023-12-03T20:47:39+08:00
-draft = true
+
 +++
 
-## Introduction
+出门走走
 
-This is **bold** text, and this is *emphasized* text.
+![](../resources/IMG_1254.jpeg)
 
-Visit the [Hugo](https://gohugo.io) website!
+![](../resources/IMG_1261.jpeg)
